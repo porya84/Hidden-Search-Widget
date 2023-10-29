@@ -16,3 +16,12 @@
     align-items: center;
     justify-content: center;
 }
+
+/* button */
+#btn {
+    height: 40px;
+    width: 60px;
+    background-color: #2ECC71;
+    outline: none;
+    border: none;
+}
