@@ -25,3 +25,13 @@
     outline: none;
     border: none;
 }
+
+/* search input  */
+#search_input {
+    height: 30px;
+    padding: 20px;
+    width: 400px;
+    border: none;
+    transition: 1s;
+    outline: none;
+}
