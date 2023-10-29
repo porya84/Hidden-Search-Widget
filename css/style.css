@@ -18,7 +18,7 @@
 }
 
 /* button */
-#btn {
+.btn {
     height: 40px;
     width: 60px;
     background-color: #2ECC71;
@@ -27,13 +27,17 @@
 }
 
 /* search input  */
-#search_input {
+.search_input {
     height: 30px;
-    padding: 20px;
-    width: 400px;
+    padding: 0;
+    width: 0px;
     border: none;
     transition: 1s;
     outline: none;
+}
+.show{
+    width: 400px;
+    padding: 20px;
 }
 
 /* search icon */
